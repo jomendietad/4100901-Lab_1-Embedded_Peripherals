@@ -1,0 +1,6 @@
+C:/Users/johan/Downloads/2025-01/Estructuras Computacionales/4100901-Lab_1-Embedded_Peripherals/build/Debug/CMakeFiles/4100901-Lab_1-Embedded_Peripherals.dir
+C:/Users/johan/Downloads/2025-01/Estructuras Computacionales/4100901-Lab_1-Embedded_Peripherals/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/johan/Downloads/2025-01/Estructuras Computacionales/4100901-Lab_1-Embedded_Peripherals/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/johan/Downloads/2025-01/Estructuras Computacionales/4100901-Lab_1-Embedded_Peripherals/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/johan/Downloads/2025-01/Estructuras Computacionales/4100901-Lab_1-Embedded_Peripherals/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/johan/Downloads/2025-01/Estructuras Computacionales/4100901-Lab_1-Embedded_Peripherals/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
